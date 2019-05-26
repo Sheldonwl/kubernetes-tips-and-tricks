@@ -113,7 +113,7 @@ http://apiserver:port/apis/$GROUPNAME/$VERSION/namespaces/$NAMESPACE/$RESOURCE_T
 
 ## Managing Objects with Labels, Annotations, and Namespaces
 
-**Organize object in Kubernetes**  
+**Organize objects in Kubernetes**  
 **Namespaces:** When you want to put a boundary around a resource or an object in terms of security, naming or resource allocations.  
 **Labels:** When you want to act on an object or group of objects or influence internal Kubernetes operations.  
 **Annotation:** Add a bit more information or metadata about an object or resource  
